@@ -1,3 +1,2 @@
-hello 
-welcome
-github
+welcome to 3rd sem cse day1
+
